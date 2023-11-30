@@ -16,6 +16,6 @@ Some of my more prominent community roles, in no particular order:
 My talks:
 
 * [*LoongArch: What we will do next* / 《LoongArch：我们接下来干啥》](https://lpc.events/event/16/contributions/1178/), LPC 2022
-* (upcoming) *`GOARCH=loong64`: past, present, and future* / 《`GOARCH=loong64`: 昨天‧今天‧明天》, GopherChina 2023
+* [*`GOARCH=loong64`: past, present, and future* / 《`GOARCH=loong64`: 昨天‧今天‧明天》](https://github.com/gopherchina/conference/blob/6feb86ee4cf7f3dba4898236803dd6a20d4a75ca/2023/1.2.1%20Go%20on%20Loong64.pdf), GopherChina 2023
 
 Pronouns: he/him/they/them (The Chinese language doesn't have grammatical genders, and absolutely doesn't distinguish the third-person genders when spoken.)
