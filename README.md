@@ -23,5 +23,7 @@ My talks:
 * [《龙架构社区生态现状（2024.03）》](https://gist.github.com/xen0n/b6887728f36d0099a985c96b20913792), 安同曲阜师大行：计算进化！ (2024-03-20)
 * [《4202 年了，咱龙了吗？第三方龙架构生态，观察与体会》](https://repo.aosc.io/aosc-documentation/aoscc/2024/xen0n/4202-areweloongyet.pdf), AOSCC 2024
 * 《.NET meets Loong: 龙架构 .NET SDK 社区发行版的幕后工作》, .NET Conf China 2024
+* 《如何维护 Firefox 的架构适配》, 安同校园行・河海大学站 (2025-03-15)
+* TODO: some intro guide on Packaging Python software, 安同校园行・北京站 (2025-04-19)
 
-Pronouns: he/him/they/them (The Chinese language doesn't have grammatical genders, and absolutely doesn't distinguish the third-person genders when spoken.)
+Pronouns: he/him/they/them/tā (The Chinese language doesn't have grammatical genders, and cannot distinguish the third-person genders when spoken. I'm fine with whatever.)
